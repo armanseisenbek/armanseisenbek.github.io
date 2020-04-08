@@ -1,0 +1,28 @@
+body {
+	background: #d3d6e2 !important;
+	margin-top: 20px !important;
+}
+
+div.heading {
+	border-radius: 50px;
+	background: #d3d6e2;
+	box-shadow:  20px 20px 60px #b3b6c0, 
+             	-20px -20px 60px #f3f6ff;
+}
+
+img.profImg {
+	width: 200px;
+	height: 200px;
+}
+
+div.about {
+	margin-top: 30px;
+	padding: 25px;
+
+	border-radius: 50px;
+	background: #d3d6e2;
+	box-shadow:  20px 20px 60px #b3b6c0, 
+             	-20px -20px 60px #f3f6ff;
+
+
+}
