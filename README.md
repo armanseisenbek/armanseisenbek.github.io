@@ -1,2 +1,2 @@
 # armanseisenbek.github.io
-my personal website
+this is my personal website
