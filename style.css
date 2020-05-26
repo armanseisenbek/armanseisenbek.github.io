@@ -4,40 +4,46 @@
 
 body {
 	margin-top: 20px !important;
+	background-image: url("background.img");
+	/*background-repeat: no-repeat;*/
 }
 
 div.heading {
+	background-color: white;
 	padding: 15px;
-	border-radius: 5px;
+	/*border: 1px solid black;*/
+}
 
-	border: 1px solid black;
+h1 {
+	/*color: white;*/
 }
 
 .profileImg {
 	text-align: center;
-	width: 100px;
-	height: 100px;
-	
+	width: 150px;
+	height: 150px;
 }
 
 img {
 	max-height:100%;
 	max-width:100%;
-	border-radius: 5px;
+	border-radius: 200px;
 }
 
 div.contacts {
+	background-color: white;
 	margin-top: 30px;
+	/*margin-right: 70px;*/
 	padding: 25px;
-	border-radius: 5px;
-	border: 1px solid black;
+	/*border-radius: 5px;*/
+	/*border: 1px solid black;*/
 }
 
 div.about {
+	background-color: white;
 	margin-top: 30px;
 	padding: 25px;
 
-	border-radius: 5px;
-
-	border: 1px solid black;
+	/*border-radius: 5px;*/
+	/*border: 1px solid black;*/
 }
